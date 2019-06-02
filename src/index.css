@@ -12,3 +12,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+li:hover{
+  cursor: pointer !important;
+}
+.btn{
+  border-radius: 0 !important;
+}
